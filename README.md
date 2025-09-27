@@ -1,5 +1,2 @@
 # .github
-
-# Welcome to the UNG Robotics GitHub page!
-
-Please reach out in the discord and we will give you access.
+This is the repository for the splash page of the organization. Please do not edit any of the files.
